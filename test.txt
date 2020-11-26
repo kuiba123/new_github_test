@@ -11,3 +11,13 @@ o	D:\DevRepository\GITRepository\zhangsanatguigu\.git\config文件
 git remote add originssh git@github.com:zhangsanatguigu/zhangsanatguigu_project.git
 git push originssh master
 修改文件，重新提交,不需要再输入用户名和密码了
+--------------------------------------------------------------------------------------------------------
+
+②[lisiatguigu]重新建立github连接,如果之前配置过则删除，重新配置
+命令：
+git remote add originssh git@github.com:zhangsanatguigu/zhangsanatguigu_project.git
+git push originssh master
+修改文件，重新提交,不需要再输入用户名和密码了
+4.	注意问题:
+一个账户只能设置一个默认密码.
+如果有多个账号存在的话，只能选择设置其中某一个
