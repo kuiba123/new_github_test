@@ -5,3 +5,9 @@ o	$ git init
 o	$ git config user.name "urbosa"
 o	 git config user.email "zhangsihang0610@gmail.com"
 o	D:\DevRepository\GITRepository\zhangsanatguigu\.git\config文件
+
+②[lisiatguigu]重新建立github连接,如果之前配置过则删除，重新配置
+命令：
+git remote add originssh git@github.com:zhangsanatguigu/zhangsanatguigu_project.git
+git push originssh master
+修改文件，重新提交,不需要再输入用户名和密码了
