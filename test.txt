@@ -1,0 +1,7 @@
+/d/DevRepository/GITRepository/zhangsanatguigu
+o	$ mkdir zhangsanatguigu
+o	$ cd zhangsanatguigu
+o	$ git init
+o	$ git config user.name "urbosa"
+o	 git config user.email "zhangsihang0610@gmail.com"
+o	D:\DevRepository\GITRepository\zhangsanatguigu\.git\config文件
